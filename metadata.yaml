@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31804'
     url: http://www.gutenberg.org/2009/agents/31804
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26120#Chats-on-Old-Lace-and-Needlework
 gutenberg_bookshelf:
 - Technology
 - Crafts
