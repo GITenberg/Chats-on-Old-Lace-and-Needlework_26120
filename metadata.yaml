@@ -1,0 +1,29 @@
+_repo: Chats-on-Old-Lace-and-Needlework_26120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowes, Emily Leigh
+    gutenberg_agent_id: '31804'
+    url: http://www.gutenberg.org/2009/agents/31804
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2008-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lace and lace making'
+- !lcsh 'Needlework'
+- !lcc 'NK'
+- !lcc 'TT'
+title: Chats on Old Lace and Needlework
+url: http://www.gutenberg.org/ebooks/26120
